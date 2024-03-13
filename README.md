@@ -8,8 +8,12 @@ The book about healthdev with FHIR
 * Architecture 
 * How do you model your app in FHIR (FHIR mapping)?
   * Patient, Encounter (Appointment, EpisodeOfCare)
+* User Interfaces
+* Data-driven vs task driven
 * What do we need for EMR, PHR, or EHR?
-  * Resources, Documents & Workflows
+  * Resources
+  * Documents
+  * Workflows
 * Domains
   * ADT Patient, Encounter etc
   * EMR - Conditions, Allergies, Medications
@@ -22,7 +26,18 @@ The book about healthdev with FHIR
   * CPOE - Orders
   * Forms & Questionnaires and FHIR SDC
   * Timeline
+* Medications
+  * E-prescriptions
+  * rxnorm
+  * drug-drug, drug-allergy 
 * Billing
+  * X12 and Clearing Houses 
+  * Eligibility 
+  * Claims
+  * ClaimResponses
+* Patient Portal
+  * SMART on FHIR 
+
 * Security
   * Users & Roles
   * Access Control
