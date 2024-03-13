@@ -26,6 +26,8 @@ The book about healthdev with FHIR
   * CPOE - Orders
   * Forms & Questionnaires and FHIR SDC
   * Timeline
+* Conditions & Diagnoses
+  * ICD-10/Snomed  
 * Medications
   * E-prescriptions
   * rxnorm
